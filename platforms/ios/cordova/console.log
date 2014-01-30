@@ -1,0 +1,8 @@
+objc[53097]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-01-30 17:31:16.861 Steps2makeme[53097:80b] Cannot find executable for CFBundle 0xa495f40 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-01-30 17:31:16.871 Steps2makeme[53097:80b] Cannot find executable for CFBundle 0xa5b6300 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-01-30 17:31:16.933 Steps2makeme[53097:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-30 17:31:16.938 Steps2makeme[53097:80b] Unlimited access to network resources
+2014-01-30 17:31:17.056 Steps2makeme[53097:80b] Resetting plugins due to page load.
+2014-01-30 17:31:17.130 Steps2makeme[53097:80b] Finished load of: file:///Users/andreassahle/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/2ACA6737-4679-4B19-8E7A-8DA91967CBFF/Steps2makeme.app/www/index.html
+2014-01-30 17:31:17.159 Steps2makeme[53097:80b] Received Event: deviceready
