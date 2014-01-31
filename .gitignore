@@ -1,1 +1,6 @@
 node_modules
+www
+app/components
+.tmp
+platforms/ios/www
+platforms/ios/cordova/console.log
